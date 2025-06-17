@@ -1,0 +1,30 @@
+How to use it ?
+
+
+OPTION 1-
+
+Step 1	-	Simply move this file anywhere you want. (Recommended:Move it to C:\Program Files\Adobe\Adobe Photoshop 2023\Presets\Scripts)
+
+Step 2	-	Move the action file in to C:\Program Files\Adobe\Adobe Photoshop 2023\Presets\Actions
+
+Voila. Now when you have a Psd file you want to quickly save as PNG and JPG at the same time, just click this action.
+
+
+
+_________________________________________________________________________________________
+OPTION 2-
+
+Step 1	-	Simply move this file anywhere you want. (Recommended:Move it to C:\Program Files\Adobe\Adobe Photoshop 2023\Presets\Scripts)
+
+Step 2	-	Start Photoshop and create a new file.
+
+Step 3	-	Save your file as .Psd . (Such as example.psd)
+
+Step 4	-	In Actions Panel, create a new action and start recording.
+
+Step 5	-	File>Scripts>Browse and select the file from Step 1.
+
+Step 6 	-	Stop recording after selecting this file.
+
+Now you have an action to use this script automatically. 
+Voila. Now when you have a Psd file you want to quickly save as PNG and JPG at the same time, just click this action.
