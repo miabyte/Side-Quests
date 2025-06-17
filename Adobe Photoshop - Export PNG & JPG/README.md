@@ -1,17 +1,39 @@
-# Adobe🌿
-Automate Adobe tasks effortlessly. Unlock productivity with these scripts and actions for seamless workflow.
+# Photoshop Export Script — miasave.jsx 🌿
+I originally created this script for personal design projects. It’s a tiny helper, but incredibly useful when you’re dealing with large batches of files.
+Here’s what it does:
+If you're working on something like MyProject.psd and run this script, it will instantly export MyProject.png (with transparency) and MyProject.jpg (in highest quality) into the same folder — automatically.
 
-![](https://i.imgur.com/xw7Pvol.png)
+Sounds simple, but when you’re exporting hundreds or thousands of product images, social media graphics, or thumbnails, this becomes a huge time saver.
 
-Within this repository, I'm delighted to share a selection of my personally crafted scripts and actions for various Adobe products. (Mostly Photoshop) Discover efficient automation solutions that will help you reclaim precious time and streamline your creative endeavors. Please note that these resources are intended for personal use only. Kindly refrain from selling or sharing them elsewhere as your own.
+![](https://i.imgur.com/7wIpmTt.png)
+
+Bonus tip:
+If you turn it into a Photoshop action and assign it a shortcut key (for example, I used a side mouse button), you can export your files without even touching the keyboard.
 
 Made with 💖 and ☕ by MiaByte.
 
+🌸 HOW TO USE IT
+1 — Move miasave.jsx anywhere you want   ( Recommended:   C:\Program Files\Adobe\Adobe Photoshop 2025\Presets\Scripts   )
+2 — Open Photoshop
+3 — Go to:   File > Scripts > miasave
+✅ That’s it! It’ll export your current .psd as both .jpg and .png in the same folder.
 
-## 1-MiaSave
+💡 Optional: One-Click Export (Highly Recommended)
+If you want this to run with a single key press:
+1 — Open any .psd in Photoshop
+2 — Open the Actions panel
+3 — Create a new action and start recording
+4 — Go to File > Scripts > miasave
+5 — Stop recording
+6 — Assign a shortcut key to your action (e.g. F3 or a mouse button)
+✅ Now just press the key anytime — it instantly exports .jpg and .png.
+
+
+
+## Here is a quick showcase
 
 
 https://github.com/miabyte/Adobe/assets/38174558/cef66928-ccca-4cd1-897d-33bc987270c8
 
 
-Introducing MiaSave: Your ultimate PSD duplication tool. With just one click, effortlessly create PNG and JPG copies in the same folder, mirroring the PSD filename. MiaSave combines the power of a JavaScript file and a Photoshop action to simplify your workflow and save you valuable time.
+
