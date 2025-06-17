@@ -14,18 +14,30 @@ Made with 💖 and ☕ by MiaByte.
 
 🌸 HOW TO USE IT
 1 — Move miasave.jsx anywhere you want   ( Recommended:   C:\Program Files\Adobe\Adobe Photoshop 2025\Presets\Scripts   )
+
 2 — Open Photoshop
+
 3 — Go to:   File > Scripts > miasave
+
 ✅ That’s it! It’ll export your current .psd as both .jpg and .png in the same folder.
+
+
 
 💡 Optional: One-Click Export (Highly Recommended)
 If you want this to run with a single key press:
+
 1 — Open any .psd in Photoshop
+
 2 — Open the Actions panel
+
 3 — Create a new action and start recording
+
 4 — Go to File > Scripts > miasave
+
 5 — Stop recording
+
 6 — Assign a shortcut key to your action (e.g. F3 or a mouse button)
+
 ✅ Now just press the key anytime — it instantly exports .jpg and .png.
 
 
