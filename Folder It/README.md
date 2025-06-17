@@ -1,14 +1,27 @@
 # FolderIt✨
-Automate folder creation and file sorting. Boost productivity.
+![](https://i.imgur.com/rmsCjiR.png)
 
-![](https://i.imgur.com/DTaomtQ.gif)
+A small tool I made to save time during bulk file organizing.
+It’s simple: give it a folder, and it creates a subfolder for each file inside — then moves each file into its own matching folder. That’s it!
+This comes in handy when you're working with lots of assets, product images, or anything messy.
+____________________________
+💡 How to Use It:
+Let’s say you have a folder like this:  
+MyFolder  
+↳ img1.png  
+↳ img2.png  
+↳ img3.png  
+ 
+Run FolderIt.exe  
 
-FolderIt is a command-line tool designed for bulk file organization. Upon execution, it prompts the user to specify a folder location. Once provided, it scans the selected folder, creates subfolders corresponding to each file's name, and moves the files into their respective folders. This process simplifies the task of organizing files in bulk, eliminating the need for manual sorting.
+A little window will pop up. Paste your folder path there and press OK  
 
+The tool will automatically create folders like this:
 
 ![](https://i.imgur.com/T1lbrTe.gif)
-
-You can directly download the exe and use it, its a portable tool. You can check the code from FolderIt.py1 file as well. 🌿🙋‍♀️
-
-
-Made with 💖 and ☕ by MiaByte.
+__________________________________
+✅ It’s portable, no installation needed. Just click and go.
+🛠️ You can check out the code inside FolderIt.py too, if you're curious.
+__________________________________
+Made with ☕, some late nights, and the desire to never sort files by hand again.
+— MiaByte
